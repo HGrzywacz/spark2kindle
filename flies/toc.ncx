@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+
+<head>
+	<meta name="dtb:uid" content="BookId"/>
+	<meta name="dtb:depth" content="2"/>
+	<meta name="dtb:totalPageCount" content="0"/>
+	<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+	<docTitle><text>Lord of the Flies</text></docTitle>
+<docAuthor><text>William Golding</text></docAuthor>
+
+<navMap>
+<navPoint class="toc" id="toc" playOrder="1">
+<navLabel>
+<text>Table of Contents</text>
+</navLabel>
+<content src="toc.html"/>
+</navPoint>
+
+<navPoint class="context.html" id="context.html" playOrder="2">
+<navLabel>
+<text>Context</text>
+</navLabel>
+<content src="context.html"/>
+</navPoint>
+
+<navPoint class="summary.html" id="summary.html" playOrder="3">
+<navLabel>
+<text>Plot Overview</text>
+</navLabel>
+<content src="summary.html"/>
+</navPoint>
+
+<navPoint class="characters.html" id="characters.html" playOrder="4">
+<navLabel>
+<text>Character List</text>
+</navLabel>
+<content src="characters.html"/>
+</navPoint>
+
+<navPoint class="canalysis.html" id="canalysis.html" playOrder="5">
+<navLabel>
+<text>Analysis of Major Characters</text>
+</navLabel>
+<content src="canalysis.html"/>
+</navPoint>
+
+<navPoint class="themes.html" id="themes.html" playOrder="6">
+<navLabel>
+<text>Themes, Motifs &amp; Symbols</text>
+</navLabel>
+<content src="themes.html"/>
+</navPoint>
+
+<navPoint class="section1.rhtml" id="section1.rhtml" playOrder="7">
+<navLabel>
+<text>Chapter 1</text>
+</navLabel>
+<content src="section1.rhtml"/>
+</navPoint>
+
+<navPoint class="section2.rhtml" id="section2.rhtml" playOrder="8">
+<navLabel>
+<text>Chapter 2</text>
+</navLabel>
+<content src="section2.rhtml"/>
+</navPoint>
+
+<navPoint class="section3.rhtml" id="section3.rhtml" playOrder="9">
+<navLabel>
+<text>Chapter 3</text>
+</navLabel>
+<content src="section3.rhtml"/>
+</navPoint>
+
+<navPoint class="section4.rhtml" id="section4.rhtml" playOrder="10">
+<navLabel>
+<text>Chapter 4</text>
+</navLabel>
+<content src="section4.rhtml"/>
+</navPoint>
+
+<navPoint class="section5.rhtml" id="section5.rhtml" playOrder="11">
+<navLabel>
+<text>Chapter 5</text>
+</navLabel>
+<content src="section5.rhtml"/>
+</navPoint>
+
+<navPoint class="section6.rhtml" id="section6.rhtml" playOrder="12">
+<navLabel>
+<text>Chapter 6</text>
+</navLabel>
+<content src="section6.rhtml"/>
+</navPoint>
+
+<navPoint class="section7.rhtml" id="section7.rhtml" playOrder="13">
+<navLabel>
+<text>Chapter 7</text>
+</navLabel>
+<content src="section7.rhtml"/>
+</navPoint>
+
+<navPoint class="section8.rhtml" id="section8.rhtml" playOrder="14">
+<navLabel>
+<text>Chapter 8</text>
+</navLabel>
+<content src="section8.rhtml"/>
+</navPoint>
+
+<navPoint class="section9.rhtml" id="section9.rhtml" playOrder="15">
+<navLabel>
+<text>Chapter 9</text>
+</navLabel>
+<content src="section9.rhtml"/>
+</navPoint>
+
+<navPoint class="section10.rhtml" id="section10.rhtml" playOrder="16">
+<navLabel>
+<text>Chapter 10</text>
+</navLabel>
+<content src="section10.rhtml"/>
+</navPoint>
+
+<navPoint class="section11.rhtml" id="section11.rhtml" playOrder="17">
+<navLabel>
+<text>Chapter 11</text>
+</navLabel>
+<content src="section11.rhtml"/>
+</navPoint>
+
+<navPoint class="section12.rhtml" id="section12.rhtml" playOrder="18">
+<navLabel>
+<text>Chapter 12</text>
+</navLabel>
+<content src="section12.rhtml"/>
+</navPoint>
+
+<navPoint class="quotes.html" id="quotes.html" playOrder="19">
+<navLabel>
+<text>Important Quotations Explained</text>
+</navLabel>
+<content src="quotes.html"/>
+</navPoint>
+
+<navPoint class="facts.html" id="facts.html" playOrder="20">
+<navLabel>
+<text>Key Facts</text>
+</navLabel>
+<content src="facts.html"/>
+</navPoint>
+
+<navPoint class="study.html" id="study.html" playOrder="21">
+<navLabel>
+<text>Study Questions &amp; Essay Topics</text>
+</navLabel>
+<content src="study.html"/>
+</navPoint>
+
+<navPoint class="quiz.html" id="quiz.html" playOrder="22">
+<navLabel>
+<text>Quiz</text>
+</navLabel>
+<content src="quiz.html"/>
+</navPoint>
+
+<navPoint class="bibliography.html" id="bibliography.html" playOrder="23">
+<navLabel>
+<text>Suggestions for Further Reading</text>
+</navLabel>
+<content src="bibliography.html"/>
+</navPoint>
+
+<navPoint class="citing.html" id="citing.html" playOrder="24">
+<navLabel>
+<text>How to Cite This SparkNote</text>
+</navLabel>
+<content src="citing.html"/>
+</navPoint>
+
+</navMap>
+</ncx>

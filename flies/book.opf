@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="uid">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/metadata/dublin_core" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+		<dc:Title>Sparknotes: Lord of the Flies</dc:Title>
+		<dc:Creator>Sparknotes</dc:Creator>
+		<dc:Language>en-us</dc:Language>
+		<dc:Identifier id="uid">9095C522E6</dc:Identifier>
+	</dc-metadata>
+
+	<x-metadata>
+		<output encoding="utf-8"></output>
+		<EmbeddedCover>cover.jpg</EmbeddedCover>
+	</x-metadata>
+</metadata>
+
+<manifest>
+<item id="item1" media-type="application/xhtml+xml" href="toc.html"></item>
+<item id="item2" media-type="application/xhtml+xml" href="context.html"></item>
+<item id="item3" media-type="application/xhtml+xml" href="summary.html"></item>
+<item id="item4" media-type="application/xhtml+xml" href="characters.html"></item>
+<item id="item5" media-type="application/xhtml+xml" href="canalysis.html"></item>
+<item id="item6" media-type="application/xhtml+xml" href="themes.html"></item>
+<item id="item7" media-type="application/xhtml+xml" href="section1.rhtml"></item>
+<item id="item8" media-type="application/xhtml+xml" href="section2.rhtml"></item>
+<item id="item9" media-type="application/xhtml+xml" href="section3.rhtml"></item>
+<item id="item10" media-type="application/xhtml+xml" href="section4.rhtml"></item>
+<item id="item11" media-type="application/xhtml+xml" href="section5.rhtml"></item>
+<item id="item12" media-type="application/xhtml+xml" href="section6.rhtml"></item>
+<item id="item13" media-type="application/xhtml+xml" href="section7.rhtml"></item>
+<item id="item14" media-type="application/xhtml+xml" href="section8.rhtml"></item>
+<item id="item15" media-type="application/xhtml+xml" href="section9.rhtml"></item>
+<item id="item16" media-type="application/xhtml+xml" href="section10.rhtml"></item>
+<item id="item17" media-type="application/xhtml+xml" href="section11.rhtml"></item>
+<item id="item18" media-type="application/xhtml+xml" href="section12.rhtml"></item>
+<item id="item19" media-type="application/xhtml+xml" href="quotes.html"></item>
+<item id="item20" media-type="application/xhtml+xml" href="facts.html"></item>
+<item id="item21" media-type="application/xhtml+xml" href="study.html"></item>
+<item id="item22" media-type="application/xhtml+xml" href="quiz.html"></item>
+<item id="item23" media-type="application/xhtml+xml" href="bibliography.html"></item>
+<item id="item24" media-type="application/xhtml+xml" href="citing.html"></item>
+<item id="My_Table_of_Contents" media-type="application/x-dtbncx+xml" href="toc.ncx"/>
+</manifest>
+<spine toc="My_Table_of_Contents">
+<itemref idref="item1"/>
+<itemref idref="item2"/>
+<itemref idref="item3"/>
+<itemref idref="item4"/>
+<itemref idref="item5"/>
+<itemref idref="item6"/>
+<itemref idref="item7"/>
+<itemref idref="item8"/>
+<itemref idref="item9"/>
+<itemref idref="item10"/>
+<itemref idref="item11"/>
+<itemref idref="item12"/>
+<itemref idref="item13"/>
+<itemref idref="item14"/>
+<itemref idref="item15"/>
+<itemref idref="item16"/>
+<itemref idref="item17"/>
+<itemref idref="item18"/>
+<itemref idref="item19"/>
+<itemref idref="item20"/>
+<itemref idref="item21"/>
+<itemref idref="item22"/>
+<itemref idref="item23"/>
+<itemref idref="item24"/>
+</spine><tours></tours><guide></guide></package>
