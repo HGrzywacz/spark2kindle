@@ -19,10 +19,13 @@ class SparkIndex(prototypes.Index):
         [self.dirname, self.dirname_no_slash] = self.make_dirnames(url)
 
         os.mkdir(self.dirname)
-
-        print "Author: " + self.author
-        print "Title: " + self.title
-        print self.dirname
+      
+        try:
+            print "Title: " + self.title
+            print "Author: " + self.author
+            print self.dirname
+        except SyntaxError:
+            pass
 
     def make_dirnames(self, url):
         m = re.search('.+\/(.+)$', url) # + matches one on more repetition
